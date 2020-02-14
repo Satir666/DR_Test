@@ -1,0 +1,39 @@
+[Trace]   DarkRiftServer        System Details:
+                                	OS: Microsoft Windows NT 6.2.9200.0
+                                	CLS Version: 4.0.30319.42000
+                                	DarkRift: 2.4.5.0 - Free
+[Trace]   PluginFactory         Created plugin 'BomberDronServer'.
+[Trace]   ExtendedPluginManagerBase Plugin 'BomberDronServer' has requested that DarkRift operates in thread safe mode.
+[Trace]   DarkRiftServer        Switched into thread safe mode. Expect lower performance!
+[Info]    ExtendedPluginManagerBase Loaded plugin BomberDronServer version 1.0.0
+[Trace]   PluginFactory         Created plugin 'BichannelListener'.
+[Trace]   DefaultNetworkListener Starting bichannel listener.
+[Info]    DefaultNetworkListener Server mounted, listening on port 4296.
+[Trace]   DefaultNetworkListener Accepted TCP connection from 127.0.0.1:49385.
+[Trace]   DefaultNetworkListener Accepted UDP connection from 127.0.0.1:65090.
+[Info]    ClientManager         New client [0] connected [127.0.0.1:49385|127.0.0.1:65090].
+[Trace]   DefaultNetworkListener Accepted TCP connection from 127.0.0.1:49393.
+[Trace]   DefaultNetworkListener Accepted UDP connection from 127.0.0.1:53282.
+[Info]    ClientManager         New client [1] connected [127.0.0.1:49393|127.0.0.1:53282].
+[Trace]   DefaultNetworkListener Accepted TCP connection from 127.0.0.1:49398.
+[Trace]   DefaultNetworkListener Accepted UDP connection from 127.0.0.1:53283.
+[Info]    ClientManager         New client [2] connected [127.0.0.1:49398|127.0.0.1:53283].
+[Trace]   DefaultNetworkListener Accepted TCP connection from 127.0.0.1:49403.
+[Trace]   DefaultNetworkListener Accepted UDP connection from 127.0.0.1:53284.
+[Info]    ClientManager         New client [3] connected [127.0.0.1:49403|127.0.0.1:53284].
+[Info]    ClientManager         Client [2] disconnected.
+[Error]   ClientManager         An plugin encountered an error whilst handling the ClientDisconnected event. (See logs for exception)
+                                 System.NullReferenceException: Ссылка на объект не указывает на экземпляр объекта.
+                                    в BomberDron.BomberDronServer.ClientDisconnected(Object sender, ClientDisconnectedEventArgs e)
+                                    в DarkRift.Server.ClientManager.<>c__DisplayClass32_0.<HandleDisconnection>b__0()
+[Info]    ClientManager         Client [0] disconnected.
+[Error]   ClientManager         An plugin encountered an error whilst handling the ClientDisconnected event. (See logs for exception)
+                                 System.NullReferenceException: Ссылка на объект не указывает на экземпляр объекта.
+                                    в BomberDron.BomberDronServer.ClientDisconnected(Object sender, ClientDisconnectedEventArgs e)
+                                    в DarkRift.Server.ClientManager.<>c__DisplayClass32_0.<HandleDisconnection>b__0()
+[Info]    ClientManager         Client [1] disconnected.
+[Error]   ClientManager         An plugin encountered an error whilst handling the ClientDisconnected event. (See logs for exception)
+                                 System.NullReferenceException: Ссылка на объект не указывает на экземпляр объекта.
+                                    в BomberDron.BomberDronServer.ClientDisconnected(Object sender, ClientDisconnectedEventArgs e)
+                                    в DarkRift.Server.ClientManager.<>c__DisplayClass32_0.<HandleDisconnection>b__0()
+[Info]    ClientManager         Client [3] disconnected.

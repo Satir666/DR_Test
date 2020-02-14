@@ -1,0 +1,52 @@
+[Trace]   DarkRiftServer        System Details:
+                                	OS: Microsoft Windows NT 6.2.9200.0
+                                	CLS Version: 4.0.30319.42000
+                                	DarkRift: 2.4.5.0 - Free
+[Trace]   PluginFactory         Created plugin 'BomberDronServer'.
+[Trace]   ExtendedPluginManagerBase Plugin 'BomberDronServer' has requested that DarkRift operates in thread safe mode.
+[Trace]   DarkRiftServer        Switched into thread safe mode. Expect lower performance!
+[Info]    ExtendedPluginManagerBase Loaded plugin BomberDronServer version 1.0.0
+[Trace]   PluginFactory         Created plugin 'BichannelListener'.
+[Trace]   DefaultNetworkListener Starting bichannel listener.
+[Info]    DefaultNetworkListener Server mounted, listening on port 4296.
+[Trace]   DefaultNetworkListener Accepted TCP connection from 127.0.0.1:57781.
+[Trace]   DefaultNetworkListener Accepted UDP connection from 127.0.0.1:59485.
+[Info]    ClientManager         New client [0] connected [127.0.0.1:57781|127.0.0.1:59485].
+[Trace]   DefaultNetworkListener Accepted TCP connection from 127.0.0.1:57790.
+[Trace]   DefaultNetworkListener Accepted UDP connection from 127.0.0.1:61351.
+[Info]    ClientManager         New client [1] connected [127.0.0.1:57790|127.0.0.1:61351].
+[Trace]   DefaultNetworkListener Accepted TCP connection from 127.0.0.1:57798.
+[Trace]   DefaultNetworkListener Accepted UDP connection from 127.0.0.1:58460.
+[Info]    ClientManager         New client [2] connected [127.0.0.1:57798|127.0.0.1:58460].
+[Trace]   DefaultNetworkListener Accepted TCP connection from 127.0.0.1:57806.
+[Trace]   DefaultNetworkListener Accepted UDP connection from 127.0.0.1:55970.
+[Info]    ClientManager         New client [3] connected [127.0.0.1:57806|127.0.0.1:55970].
+[Info]    ClientManager         Client [0] disconnected.
+[Info]    ClientManager         Client [2] disconnected: ConnectionAborted.
+                                 System.Net.Sockets.SocketException (0x80004005): Программа на вашем хост-компьютере разорвала установленное подключение
+[Info]    ClientManager         Client [3] disconnected: ConnectionAborted.
+                                 System.Net.Sockets.SocketException (0x80004005): Программа на вашем хост-компьютере разорвала установленное подключение
+[Info]    ClientManager         Client [3] disconnected.
+[Info]    ClientManager         Client [2] disconnected.
+[Info]    ClientManager         Client [1] disconnected.
+[Trace]   DefaultNetworkListener Accepted TCP connection from 127.0.0.1:57991.
+[Trace]   DefaultNetworkListener Accepted UDP connection from 127.0.0.1:64166.
+[Info]    ClientManager         New client [4] connected [127.0.0.1:57991|127.0.0.1:64166].
+[Trace]   DefaultNetworkListener Accepted TCP connection from 127.0.0.1:58220.
+[Trace]   DefaultNetworkListener Accepted UDP connection from 127.0.0.1:51993.
+[Info]    ClientManager         New client [5] connected [127.0.0.1:58220|127.0.0.1:51993].
+[Trace]   DefaultNetworkListener Accepted TCP connection from 127.0.0.1:58229.
+[Trace]   DefaultNetworkListener Accepted UDP connection from 127.0.0.1:65090.
+[Info]    ClientManager         New client [6] connected [127.0.0.1:58229|127.0.0.1:65090].
+[Trace]   DefaultNetworkListener Accepted TCP connection from 127.0.0.1:58236.
+[Trace]   DefaultNetworkListener Accepted UDP connection from 127.0.0.1:63895.
+[Info]    ClientManager         New client [7] connected [127.0.0.1:58236|127.0.0.1:63895].
+[Info]    ClientManager         Client [6] disconnected: ConnectionReset.
+                                 System.Net.Sockets.SocketException (0x80004005): Удаленный хост принудительно разорвал существующее подключение
+[Info]    ClientManager         Client [4] disconnected.
+[Info]    ClientManager         Client [7] disconnected: ConnectionAborted.
+                                 System.Net.Sockets.SocketException (0x80004005): Программа на вашем хост-компьютере разорвала установленное подключение
+[Info]    ClientManager         Client [5] disconnected.
+[Info]    ClientManager         Client [7] disconnected.
+[Info]    ClientManager         Client [6] disconnected: OperationAborted.
+                                 System.Net.Sockets.SocketException (0x80004005): Операция ввода/вывода была прервана из-за завершения потока команд или по запросу приложения

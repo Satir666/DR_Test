@@ -1,0 +1,43 @@
+[Trace]   DarkRiftServer        System Details:
+                                	OS: Microsoft Windows NT 6.2.9200.0
+                                	CLS Version: 4.0.30319.42000
+                                	DarkRift: 2.4.5.0 - Free
+[Trace]   PluginFactory         Created plugin 'BomberDronServer'.
+[Trace]   ExtendedPluginManagerBase Plugin 'BomberDronServer' has requested that DarkRift operates in thread safe mode.
+[Trace]   DarkRiftServer        Switched into thread safe mode. Expect lower performance!
+[Info]    ExtendedPluginManagerBase Loaded plugin BomberDronServer version 1.0.0
+[Trace]   PluginFactory         Created plugin 'BichannelListener'.
+[Trace]   DefaultNetworkListener Starting bichannel listener.
+[Info]    DefaultNetworkListener Server mounted, listening on port 4296.
+[Trace]   DefaultNetworkListener Accepted TCP connection from 127.0.0.1:57969.
+[Trace]   DefaultNetworkListener Accepted UDP connection from 127.0.0.1:56578.
+[Info]    ClientManager         New client [0] connected [127.0.0.1:57969|127.0.0.1:56578].
+[Trace]   DefaultNetworkListener Accepted TCP connection from 127.0.0.1:57975.
+[Trace]   DefaultNetworkListener Accepted UDP connection from 127.0.0.1:59370.
+[Info]    ClientManager         New client [1] connected [127.0.0.1:57975|127.0.0.1:59370].
+[Trace]   DefaultNetworkListener Accepted TCP connection from 127.0.0.1:57980.
+[Trace]   DefaultNetworkListener Accepted UDP connection from 127.0.0.1:55453.
+[Info]    ClientManager         New client [2] connected [127.0.0.1:57980|127.0.0.1:55453].
+[Trace]   DefaultNetworkListener Accepted TCP connection from 127.0.0.1:57990.
+[Trace]   DefaultNetworkListener Accepted UDP connection from 127.0.0.1:52016.
+[Info]    ClientManager         New client [3] connected [127.0.0.1:57990|127.0.0.1:52016].
+[Trace]   DefaultNetworkListener Accepted TCP connection from 127.0.0.1:58032.
+[Trace]   DefaultNetworkListener Accepted UDP connection from 127.0.0.1:61671.
+[Info]    ClientManager         New client [4] connected [127.0.0.1:58032|127.0.0.1:61671].
+[Trace]   DefaultNetworkListener Accepted TCP connection from 127.0.0.1:58038.
+[Trace]   DefaultNetworkListener Accepted UDP connection from 127.0.0.1:63792.
+[Info]    ClientManager         New client [5] connected [127.0.0.1:58038|127.0.0.1:63792].
+[Trace]   DefaultNetworkListener Accepted TCP connection from 127.0.0.1:58048.
+[Trace]   DefaultNetworkListener Accepted UDP connection from 127.0.0.1:63634.
+[Info]    ClientManager         New client [6] connected [127.0.0.1:58048|127.0.0.1:63634].
+[Trace]   DefaultNetworkListener Accepted TCP connection from 127.0.0.1:58057.
+[Trace]   DefaultNetworkListener Accepted UDP connection from 127.0.0.1:60369.
+[Info]    ClientManager         New client [7] connected [127.0.0.1:58057|127.0.0.1:60369].
+[Info]    ClientManager         Client [3] disconnected.
+[Info]    ClientManager         Client [4] disconnected.
+[Info]    ClientManager         Client [6] disconnected.
+[Info]    ClientManager         Client [5] disconnected.
+[Info]    ClientManager         Client [7] disconnected.
+[Info]    ClientManager         Client [0] disconnected.
+[Info]    ClientManager         Client [1] disconnected.
+[Info]    ClientManager         Client [2] disconnected.

@@ -1,0 +1,319 @@
+[Trace]   DarkRiftServer        System Details:
+                                	OS: Microsoft Windows NT 6.2.9200.0
+                                	CLS Version: 4.0.30319.42000
+                                	DarkRift: 2.4.5.0 - Free
+[Trace]   PluginFactory         Created plugin 'BomberDronServer'.
+[Trace]   ExtendedPluginManagerBase Plugin 'BomberDronServer' has requested that DarkRift operates in thread safe mode.
+[Trace]   DarkRiftServer        Switched into thread safe mode. Expect lower performance!
+[Info]    ExtendedPluginManagerBase Loaded plugin BomberDronServer version 1.0.0
+[Trace]   PluginFactory         Created plugin 'BichannelListener'.
+[Trace]   DefaultNetworkListener Starting bichannel listener.
+[Info]    DefaultNetworkListener Server mounted, listening on port 4296.
+[Trace]   DefaultNetworkListener Accepted TCP connection from 127.0.0.1:60076.
+[Trace]   DefaultNetworkListener Accepted UDP connection from 127.0.0.1:56331.
+[Info]    ClientManager         New client [0] connected [127.0.0.1:60076|127.0.0.1:56331].
+[Trace]   DefaultNetworkListener Accepted TCP connection from 127.0.0.1:60083.
+[Trace]   DefaultNetworkListener Accepted UDP connection from 127.0.0.1:57753.
+[Info]    ClientManager         New client [1] connected [127.0.0.1:60083|127.0.0.1:57753].
+[Trace]   DefaultNetworkListener Accepted TCP connection from 127.0.0.1:60088.
+[Trace]   DefaultNetworkListener Accepted UDP connection from 127.0.0.1:56818.
+[Info]    ClientManager         New client [2] connected [127.0.0.1:60088|127.0.0.1:56818].
+[Trace]   DefaultNetworkListener Accepted TCP connection from 127.0.0.1:60094.
+[Trace]   DefaultNetworkListener Accepted UDP connection from 127.0.0.1:62327.
+[Info]    ClientManager         New client [3] connected [127.0.0.1:60094|127.0.0.1:62327].
+[Info]    ClientManager         Client [3] disconnected.
+[Trace]   DefaultNetworkListener Accepted TCP connection from 127.0.0.1:60100.
+[Trace]   DefaultNetworkListener Accepted UDP connection from 127.0.0.1:60777.
+[Info]    ClientManager         New client [4] connected [127.0.0.1:60100|127.0.0.1:60777].
+[Info]    ClientManager         Client [4] disconnected.
+[Info]    ClientManager         Client [0] disconnected.
+[Trace]   DefaultNetworkListener Accepted TCP connection from 127.0.0.1:60109.
+[Trace]   DefaultNetworkListener Accepted UDP connection from 127.0.0.1:63241.
+[Info]    ClientManager         New client [5] connected [127.0.0.1:60109|127.0.0.1:63241].
+[Info]    ClientManager         Client [1] disconnected.
+[Trace]   DefaultNetworkListener Accepted TCP connection from 127.0.0.1:60111.
+[Trace]   DefaultNetworkListener Accepted UDP connection from 127.0.0.1:63244.
+[Info]    ClientManager         New client [6] connected [127.0.0.1:60111|127.0.0.1:63244].
+[Info]    ClientManager         Client [2] disconnected.
+[Trace]   DefaultNetworkListener Accepted TCP connection from 127.0.0.1:60113.
+[Trace]   DefaultNetworkListener Accepted UDP connection from 127.0.0.1:63246.
+[Info]    ClientManager         New client [7] connected [127.0.0.1:60113|127.0.0.1:63246].
+[Trace]   DefaultNetworkListener Accepted TCP connection from 127.0.0.1:60147.
+[Trace]   DefaultNetworkListener Accepted UDP connection from 127.0.0.1:50553.
+[Info]    ClientManager         New client [8] connected [127.0.0.1:60147|127.0.0.1:50553].
+[Info]    ClientManager         Client [8] disconnected.
+[Trace]   DefaultNetworkListener Accepted TCP connection from 127.0.0.1:60167.
+[Trace]   DefaultNetworkListener Accepted UDP connection from 127.0.0.1:60648.
+[Info]    ClientManager         New client [9] connected [127.0.0.1:60167|127.0.0.1:60648].
+[Info]    ClientManager         Client [9] disconnected.
+[Info]    ClientManager         Client [5] disconnected.
+[Trace]   DefaultNetworkListener Accepted TCP connection from 127.0.0.1:60290.
+[Trace]   DefaultNetworkListener Accepted UDP connection from 127.0.0.1:55884.
+[Info]    ClientManager         New client [10] connected [127.0.0.1:60290|127.0.0.1:55884].
+[Info]    ClientManager         Client [6] disconnected.
+[Trace]   DefaultNetworkListener Accepted TCP connection from 127.0.0.1:60293.
+[Trace]   DefaultNetworkListener Accepted UDP connection from 127.0.0.1:55886.
+[Info]    ClientManager         New client [11] connected [127.0.0.1:60293|127.0.0.1:55886].
+[Info]    ClientManager         Client [7] disconnected.
+[Trace]   DefaultNetworkListener Accepted TCP connection from 127.0.0.1:60295.
+[Trace]   DefaultNetworkListener Accepted UDP connection from 127.0.0.1:55887.
+[Info]    ClientManager         New client [12] connected [127.0.0.1:60295|127.0.0.1:55887].
+[Trace]   DefaultNetworkListener Accepted TCP connection from 127.0.0.1:60298.
+[Trace]   DefaultNetworkListener Accepted UDP connection from 127.0.0.1:54359.
+[Info]    ClientManager         New client [13] connected [127.0.0.1:60298|127.0.0.1:54359].
+[Info]    ClientManager         Client [13] disconnected.
+[Trace]   DefaultNetworkListener Accepted TCP connection from 127.0.0.1:60312.
+[Trace]   DefaultNetworkListener Accepted UDP connection from 127.0.0.1:56330.
+[Info]    ClientManager         New client [14] connected [127.0.0.1:60312|127.0.0.1:56330].
+[Info]    ClientManager         Client [14] disconnected.
+[Trace]   DefaultNetworkListener Accepted TCP connection from 127.0.0.1:60319.
+[Trace]   DefaultNetworkListener Accepted UDP connection from 127.0.0.1:53367.
+[Info]    ClientManager         New client [15] connected [127.0.0.1:60319|127.0.0.1:53367].
+[Info]    ClientManager         Client [15] disconnected.
+[Trace]   DefaultNetworkListener Accepted TCP connection from 127.0.0.1:60326.
+[Trace]   DefaultNetworkListener Accepted UDP connection from 127.0.0.1:53371.
+[Info]    ClientManager         New client [16] connected [127.0.0.1:60326|127.0.0.1:53371].
+[Info]    ClientManager         Client [16] disconnected.
+[Trace]   DefaultNetworkListener Accepted TCP connection from 127.0.0.1:60352.
+[Trace]   DefaultNetworkListener Accepted UDP connection from 127.0.0.1:58476.
+[Info]    ClientManager         New client [17] connected [127.0.0.1:60352|127.0.0.1:58476].
+[Info]    ClientManager         Client [17] disconnected.
+[Trace]   DefaultNetworkListener Accepted TCP connection from 127.0.0.1:60357.
+[Trace]   DefaultNetworkListener Accepted UDP connection from 127.0.0.1:56847.
+[Info]    ClientManager         New client [18] connected [127.0.0.1:60357|127.0.0.1:56847].
+[Info]    ClientManager         Client [18] disconnected.
+[Trace]   DefaultNetworkListener Accepted TCP connection from 127.0.0.1:60366.
+[Trace]   DefaultNetworkListener Accepted UDP connection from 127.0.0.1:50501.
+[Info]    ClientManager         New client [19] connected [127.0.0.1:60366|127.0.0.1:50501].
+[Info]    ClientManager         Client [19] disconnected.
+[Trace]   DefaultNetworkListener Accepted TCP connection from 127.0.0.1:60373.
+[Trace]   DefaultNetworkListener Accepted UDP connection from 127.0.0.1:53410.
+[Info]    ClientManager         New client [20] connected [127.0.0.1:60373|127.0.0.1:53410].
+[Info]    ClientManager         Client [20] disconnected.
+[Trace]   DefaultNetworkListener Accepted TCP connection from 127.0.0.1:60394.
+[Trace]   DefaultNetworkListener Accepted UDP connection from 127.0.0.1:53152.
+[Info]    ClientManager         New client [21] connected [127.0.0.1:60394|127.0.0.1:53152].
+[Info]    ClientManager         Client [21] disconnected.
+[Trace]   DefaultNetworkListener Accepted TCP connection from 127.0.0.1:60421.
+[Trace]   DefaultNetworkListener Accepted UDP connection from 127.0.0.1:52797.
+[Info]    ClientManager         New client [22] connected [127.0.0.1:60421|127.0.0.1:52797].
+[Info]    ClientManager         Client [22] disconnected.
+[Trace]   DefaultNetworkListener Accepted TCP connection from 127.0.0.1:60431.
+[Trace]   DefaultNetworkListener Accepted UDP connection from 127.0.0.1:56765.
+[Info]    ClientManager         New client [23] connected [127.0.0.1:60431|127.0.0.1:56765].
+[Info]    ClientManager         Client [23] disconnected.
+[Trace]   DefaultNetworkListener Accepted TCP connection from 127.0.0.1:60457.
+[Trace]   DefaultNetworkListener Accepted UDP connection from 127.0.0.1:55276.
+[Info]    ClientManager         New client [24] connected [127.0.0.1:60457|127.0.0.1:55276].
+[Info]    ClientManager         Client [24] disconnected.
+[Trace]   DefaultNetworkListener Accepted TCP connection from 127.0.0.1:60464.
+[Trace]   DefaultNetworkListener Accepted UDP connection from 127.0.0.1:64311.
+[Info]    ClientManager         New client [25] connected [127.0.0.1:60464|127.0.0.1:64311].
+[Info]    ClientManager         Client [25] disconnected.
+[Trace]   DefaultNetworkListener Accepted TCP connection from 127.0.0.1:60476.
+[Trace]   DefaultNetworkListener Accepted UDP connection from 127.0.0.1:60680.
+[Info]    ClientManager         New client [26] connected [127.0.0.1:60476|127.0.0.1:60680].
+[Info]    ClientManager         Client [26] disconnected.
+[Trace]   DefaultNetworkListener Accepted TCP connection from 127.0.0.1:60504.
+[Trace]   DefaultNetworkListener Accepted UDP connection from 127.0.0.1:59089.
+[Info]    ClientManager         New client [27] connected [127.0.0.1:60504|127.0.0.1:59089].
+[Info]    ClientManager         Client [27] disconnected.
+[Trace]   DefaultNetworkListener Accepted TCP connection from 127.0.0.1:60508.
+[Trace]   DefaultNetworkListener Accepted UDP connection from 127.0.0.1:56453.
+[Info]    ClientManager         New client [28] connected [127.0.0.1:60508|127.0.0.1:56453].
+[Info]    ClientManager         Client [28] disconnected.
+[Trace]   DefaultNetworkListener Accepted TCP connection from 127.0.0.1:60552.
+[Trace]   DefaultNetworkListener Accepted UDP connection from 127.0.0.1:49254.
+[Info]    ClientManager         New client [29] connected [127.0.0.1:60552|127.0.0.1:49254].
+[Info]    ClientManager         Client [29] disconnected.
+[Trace]   DefaultNetworkListener Accepted TCP connection from 127.0.0.1:60562.
+[Trace]   DefaultNetworkListener Accepted UDP connection from 127.0.0.1:57188.
+[Info]    ClientManager         New client [30] connected [127.0.0.1:60562|127.0.0.1:57188].
+[Info]    ClientManager         Client [30] disconnected.
+[Trace]   DefaultNetworkListener Accepted TCP connection from 127.0.0.1:60566.
+[Trace]   DefaultNetworkListener Accepted UDP connection from 127.0.0.1:57195.
+[Info]    ClientManager         New client [31] connected [127.0.0.1:60566|127.0.0.1:57195].
+[Info]    ClientManager         Client [31] disconnected.
+[Trace]   DefaultNetworkListener Accepted TCP connection from 127.0.0.1:60617.
+[Trace]   DefaultNetworkListener Accepted UDP connection from 127.0.0.1:51316.
+[Info]    ClientManager         New client [32] connected [127.0.0.1:60617|127.0.0.1:51316].
+[Info]    ClientManager         Client [32] disconnected.
+[Trace]   DefaultNetworkListener Accepted TCP connection from 127.0.0.1:60624.
+[Trace]   DefaultNetworkListener Accepted UDP connection from 127.0.0.1:50024.
+[Info]    ClientManager         New client [33] connected [127.0.0.1:60624|127.0.0.1:50024].
+[Info]    ClientManager         Client [33] disconnected.
+[Trace]   DefaultNetworkListener Accepted TCP connection from 127.0.0.1:60638.
+[Trace]   DefaultNetworkListener Accepted UDP connection from 127.0.0.1:61990.
+[Info]    ClientManager         New client [34] connected [127.0.0.1:60638|127.0.0.1:61990].
+[Info]    ClientManager         Client [12] disconnected.
+[Info]    ClientManager         Client [10] disconnected: ConnectionReset.
+                                 System.Net.Sockets.SocketException (0x80004005): Удаленный хост принудительно разорвал существующее подключение
+[Info]    ClientManager         Client [11] disconnected: ConnectionReset.
+                                 System.Net.Sockets.SocketException (0x80004005): Удаленный хост принудительно разорвал существующее подключение
+[Info]    ClientManager         Client [10] disconnected: ConnectionReset.
+                                 System.Net.Sockets.SocketException (0x80004005): Удаленный хост принудительно разорвал существующее подключение
+[Info]    ClientManager         Client [11] disconnected: ConnectionReset.
+                                 System.Net.Sockets.SocketException (0x80004005): Удаленный хост принудительно разорвал существующее подключение
+[Info]    ClientManager         Client [34] disconnected.
+[Trace]   DefaultNetworkListener Accepted TCP connection from 127.0.0.1:60687.
+[Trace]   DefaultNetworkListener Accepted UDP connection from 127.0.0.1:59212.
+[Info]    ClientManager         New client [35] connected [127.0.0.1:60687|127.0.0.1:59212].
+[Warning] ObjectCacheMonitor    16 AutoRecyclingArray objects were finalized last period. This is usually a sign that you are not recycling objects correctly.
+[Warning] ObjectCacheMonitor    17 MessageBuffer objects were finalized last period. This is usually a sign that you are not recycling objects correctly.
+[Trace]   DefaultNetworkListener Accepted TCP connection from 127.0.0.1:60700.
+[Trace]   DefaultNetworkListener Accepted UDP connection from 127.0.0.1:55888.
+[Info]    ClientManager         New client [36] connected [127.0.0.1:60700|127.0.0.1:55888].
+[Trace]   DefaultNetworkListener Accepted TCP connection from 127.0.0.1:60705.
+[Trace]   DefaultNetworkListener Accepted UDP connection from 127.0.0.1:51995.
+[Info]    ClientManager         New client [37] connected [127.0.0.1:60705|127.0.0.1:51995].
+[Trace]   DefaultNetworkListener Accepted TCP connection from 127.0.0.1:60726.
+[Trace]   DefaultNetworkListener Accepted UDP connection from 127.0.0.1:61299.
+[Info]    ClientManager         New client [38] connected [127.0.0.1:60726|127.0.0.1:61299].
+[Warning] ObjectCacheMonitor    3 AutoRecyclingArray objects were finalized last period. This is usually a sign that you are not recycling objects correctly.
+[Warning] ObjectCacheMonitor    3 MessageBuffer objects were finalized last period. This is usually a sign that you are not recycling objects correctly.
+[Info]    ClientManager         Client [38] disconnected.
+[Trace]   DefaultNetworkListener Accepted TCP connection from 127.0.0.1:60800.
+[Trace]   DefaultNetworkListener Accepted UDP connection from 127.0.0.1:52062.
+[Info]    ClientManager         New client [39] connected [127.0.0.1:60800|127.0.0.1:52062].
+[Info]    ClientManager         Client [37] disconnected.
+[Info]    ClientManager         Client [35] disconnected.
+[Info]    ClientManager         Client [39] disconnected.
+[Info]    ClientManager         Client [36] disconnected.
+[Trace]   DefaultNetworkListener Accepted TCP connection from 127.0.0.1:62666.
+[Trace]   DefaultNetworkListener Accepted UDP connection from 127.0.0.1:52396.
+[Info]    ClientManager         New client [40] connected [127.0.0.1:62666|127.0.0.1:52396].
+[Info]    ClientManager         Client [40] disconnected.
+[Trace]   DefaultNetworkListener Accepted TCP connection from 127.0.0.1:62671.
+[Trace]   DefaultNetworkListener Accepted UDP connection from 127.0.0.1:49262.
+[Info]    ClientManager         New client [41] connected [127.0.0.1:62671|127.0.0.1:49262].
+[Info]    ClientManager         Client [41] disconnected.
+[Trace]   DefaultNetworkListener Accepted TCP connection from 127.0.0.1:62821.
+[Trace]   DefaultNetworkListener Accepted UDP connection from 127.0.0.1:62408.
+[Info]    ClientManager         New client [42] connected [127.0.0.1:62821|127.0.0.1:62408].
+[Info]    ClientManager         Client [42] disconnected.
+[Trace]   DefaultNetworkListener Accepted TCP connection from 127.0.0.1:62839.
+[Trace]   DefaultNetworkListener Accepted UDP connection from 127.0.0.1:52574.
+[Info]    ClientManager         New client [43] connected [127.0.0.1:62839|127.0.0.1:52574].
+[Trace]   DefaultNetworkListener Accepted TCP connection from 127.0.0.1:62848.
+[Trace]   DefaultNetworkListener Accepted UDP connection from 127.0.0.1:58870.
+[Info]    ClientManager         New client [44] connected [127.0.0.1:62848|127.0.0.1:58870].
+[Trace]   DefaultNetworkListener Accepted TCP connection from 127.0.0.1:62854.
+[Trace]   DefaultNetworkListener Accepted UDP connection from 127.0.0.1:50376.
+[Info]    ClientManager         New client [45] connected [127.0.0.1:62854|127.0.0.1:50376].
+[Trace]   DefaultNetworkListener Accepted TCP connection from 127.0.0.1:62862.
+[Trace]   DefaultNetworkListener Accepted UDP connection from 127.0.0.1:63933.
+[Info]    ClientManager         New client [46] connected [127.0.0.1:62862|127.0.0.1:63933].
+[Info]    ClientManager         Client [45] disconnected.
+[Info]    ClientManager         Client [44] disconnected.
+[Info]    ClientManager         Client [43] disconnected.
+[Info]    ClientManager         Client [46] disconnected.
+[Warning] ObjectCacheMonitor    11 AutoRecyclingArray objects were finalized last period. This is usually a sign that you are not recycling objects correctly.
+[Warning] ObjectCacheMonitor    11 MessageBuffer objects were finalized last period. This is usually a sign that you are not recycling objects correctly.
+[Trace]   DefaultNetworkListener Accepted TCP connection from 127.0.0.1:63450.
+[Trace]   DefaultNetworkListener Accepted UDP connection from 127.0.0.1:55533.
+[Info]    ClientManager         New client [47] connected [127.0.0.1:63450|127.0.0.1:55533].
+[Trace]   DefaultNetworkListener Accepted TCP connection from 127.0.0.1:63463.
+[Trace]   DefaultNetworkListener Accepted UDP connection from 127.0.0.1:56295.
+[Info]    ClientManager         New client [48] connected [127.0.0.1:63463|127.0.0.1:56295].
+[Trace]   DefaultNetworkListener Accepted TCP connection from 127.0.0.1:63469.
+[Trace]   DefaultNetworkListener Accepted UDP connection from 127.0.0.1:60957.
+[Info]    ClientManager         New client [49] connected [127.0.0.1:63469|127.0.0.1:60957].
+[Trace]   DefaultNetworkListener Accepted TCP connection from 127.0.0.1:63475.
+[Trace]   DefaultNetworkListener Accepted UDP connection from 127.0.0.1:60958.
+[Info]    ClientManager         New client [50] connected [127.0.0.1:63475|127.0.0.1:60958].
+[Info]    ClientManager         Client [47] disconnected.
+[Trace]   DefaultNetworkListener Accepted TCP connection from 127.0.0.1:63499.
+[Trace]   DefaultNetworkListener Accepted UDP connection from 127.0.0.1:61456.
+[Info]    ClientManager         New client [51] connected [127.0.0.1:63499|127.0.0.1:61456].
+[Info]    ClientManager         Client [51] disconnected.
+[Info]    ClientManager         Client [48] disconnected.
+[Trace]   DefaultNetworkListener Accepted TCP connection from 127.0.0.1:63548.
+[Trace]   DefaultNetworkListener Accepted UDP connection from 127.0.0.1:59745.
+[Info]    ClientManager         New client [52] connected [127.0.0.1:63548|127.0.0.1:59745].
+[Info]    ClientManager         Client [49] disconnected.
+[Trace]   DefaultNetworkListener Accepted TCP connection from 127.0.0.1:63550.
+[Trace]   DefaultNetworkListener Accepted UDP connection from 127.0.0.1:59747.
+[Info]    ClientManager         New client [53] connected [127.0.0.1:63550|127.0.0.1:59747].
+[Info]    ClientManager         Client [50] disconnected.
+[Trace]   DefaultNetworkListener Accepted TCP connection from 127.0.0.1:63551.
+[Trace]   DefaultNetworkListener Accepted UDP connection from 127.0.0.1:59748.
+[Info]    ClientManager         New client [54] connected [127.0.0.1:63551|127.0.0.1:59748].
+[Trace]   DefaultNetworkListener Accepted TCP connection from 127.0.0.1:63555.
+[Trace]   DefaultNetworkListener Accepted UDP connection from 127.0.0.1:54209.
+[Info]    ClientManager         New client [55] connected [127.0.0.1:63555|127.0.0.1:54209].
+[Info]    ClientManager         Client [55] disconnected.
+[Info]    ClientManager         Client [53] disconnected.
+[Trace]   DefaultNetworkListener Accepted TCP connection from 127.0.0.1:63595.
+[Trace]   DefaultNetworkListener Accepted UDP connection from 127.0.0.1:63756.
+[Info]    ClientManager         New client [56] connected [127.0.0.1:63595|127.0.0.1:63756].
+[Info]    ClientManager         Client [54] disconnected.
+[Trace]   DefaultNetworkListener Accepted TCP connection from 127.0.0.1:63597.
+[Trace]   DefaultNetworkListener Accepted UDP connection from 127.0.0.1:63757.
+[Info]    ClientManager         New client [57] connected [127.0.0.1:63597|127.0.0.1:63757].
+[Info]    ClientManager         Client [52] disconnected.
+[Trace]   DefaultNetworkListener Accepted TCP connection from 127.0.0.1:63599.
+[Trace]   DefaultNetworkListener Accepted UDP connection from 127.0.0.1:63758.
+[Info]    ClientManager         New client [58] connected [127.0.0.1:63599|127.0.0.1:63758].
+[Trace]   DefaultNetworkListener Accepted TCP connection from 127.0.0.1:63603.
+[Trace]   DefaultNetworkListener Accepted UDP connection from 127.0.0.1:60306.
+[Info]    ClientManager         New client [59] connected [127.0.0.1:63603|127.0.0.1:60306].
+[Info]    ClientManager         Client [59] disconnected.
+[Info]    ClientManager         Client [57] disconnected.
+[Trace]   DefaultNetworkListener Accepted TCP connection from 127.0.0.1:63752.
+[Trace]   DefaultNetworkListener Accepted UDP connection from 127.0.0.1:56005.
+[Info]    ClientManager         New client [60] connected [127.0.0.1:63752|127.0.0.1:56005].
+[Info]    ClientManager         Client [56] disconnected.
+[Trace]   DefaultNetworkListener Accepted TCP connection from 127.0.0.1:63754.
+[Trace]   DefaultNetworkListener Accepted UDP connection from 127.0.0.1:56006.
+[Info]    ClientManager         New client [61] connected [127.0.0.1:63754|127.0.0.1:56006].
+[Info]    ClientManager         Client [58] disconnected.
+[Trace]   DefaultNetworkListener Accepted TCP connection from 127.0.0.1:63756.
+[Trace]   DefaultNetworkListener Accepted UDP connection from 127.0.0.1:51582.
+[Info]    ClientManager         New client [62] connected [127.0.0.1:63756|127.0.0.1:51582].
+[Trace]   DefaultNetworkListener Accepted TCP connection from 127.0.0.1:63758.
+[Trace]   DefaultNetworkListener Accepted UDP connection from 127.0.0.1:59205.
+[Info]    ClientManager         New client [63] connected [127.0.0.1:63758|127.0.0.1:59205].
+[Info]    ClientManager         Client [63] disconnected.
+[Trace]   DefaultNetworkListener Accepted TCP connection from 127.0.0.1:63767.
+[Trace]   DefaultNetworkListener Accepted UDP connection from 127.0.0.1:50382.
+[Info]    ClientManager         New client [64] connected [127.0.0.1:63767|127.0.0.1:50382].
+[Info]    ClientManager         Client [60] disconnected.
+[Trace]   DefaultNetworkListener Accepted TCP connection from 127.0.0.1:63774.
+[Trace]   DefaultNetworkListener Accepted UDP connection from 127.0.0.1:50387.
+[Info]    ClientManager         New client [65] connected [127.0.0.1:63774|127.0.0.1:50387].
+[Info]    ClientManager         Client [61] disconnected.
+[Trace]   DefaultNetworkListener Accepted TCP connection from 127.0.0.1:63776.
+[Trace]   DefaultNetworkListener Accepted UDP connection from 127.0.0.1:50764.
+[Info]    ClientManager         New client [66] connected [127.0.0.1:63776|127.0.0.1:50764].
+[Info]    ClientManager         Client [62] disconnected.
+[Trace]   DefaultNetworkListener Accepted TCP connection from 127.0.0.1:63778.
+[Trace]   DefaultNetworkListener Accepted UDP connection from 127.0.0.1:50765.
+[Info]    ClientManager         New client [67] connected [127.0.0.1:63778|127.0.0.1:50765].
+[Info]    ClientManager         Client [64] disconnected.
+[Trace]   DefaultNetworkListener Accepted TCP connection from 127.0.0.1:63781.
+[Trace]   DefaultNetworkListener Accepted UDP connection from 127.0.0.1:50768.
+[Info]    ClientManager         New client [68] connected [127.0.0.1:63781|127.0.0.1:50768].
+[Info]    ClientManager         Client [68] disconnected.
+[Info]    ClientManager         Client [65] disconnected.
+[Info]    ClientManager         Client [67] disconnected.
+[Info]    ClientManager         Client [66] disconnected.
+[Trace]   DefaultNetworkListener Accepted TCP connection from 127.0.0.1:63846.
+[Trace]   DefaultNetworkListener Accepted UDP connection from 127.0.0.1:58955.
+[Info]    ClientManager         New client [69] connected [127.0.0.1:63846|127.0.0.1:58955].
+[Trace]   DefaultNetworkListener Accepted TCP connection from 127.0.0.1:63855.
+[Trace]   DefaultNetworkListener Accepted UDP connection from 127.0.0.1:61569.
+[Info]    ClientManager         New client [70] connected [127.0.0.1:63855|127.0.0.1:61569].
+[Trace]   DefaultNetworkListener Accepted TCP connection from 127.0.0.1:63864.
+[Trace]   DefaultNetworkListener Accepted UDP connection from 127.0.0.1:53636.
+[Info]    ClientManager         New client [71] connected [127.0.0.1:63864|127.0.0.1:53636].
+[Trace]   DefaultNetworkListener Accepted TCP connection from 127.0.0.1:63873.
+[Trace]   DefaultNetworkListener Accepted UDP connection from 127.0.0.1:51962.
+[Info]    ClientManager         New client [72] connected [127.0.0.1:63873|127.0.0.1:51962].
+[Info]    ClientManager         Client [69] disconnected: ConnectionAborted.
+                                 System.Net.Sockets.SocketException (0x80004005): Программа на вашем хост-компьютере разорвала установленное подключение
+[Info]    ClientManager         Client [70] disconnected: ConnectionAborted.
+                                 System.Net.Sockets.SocketException (0x80004005): Программа на вашем хост-компьютере разорвала установленное подключение
+[Info]    ClientManager         Client [71] disconnected: ConnectionAborted.
+                                 System.Net.Sockets.SocketException (0x80004005): Программа на вашем хост-компьютере разорвала установленное подключение
+[Info]    ClientManager         Client [72] disconnected: ConnectionAborted.
+                                 System.Net.Sockets.SocketException (0x80004005): Программа на вашем хост-компьютере разорвала установленное подключение

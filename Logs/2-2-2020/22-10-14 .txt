@@ -1,0 +1,43 @@
+[Trace]   DarkRiftServer        System Details:
+                                	OS: Microsoft Windows NT 6.2.9200.0
+                                	CLS Version: 4.0.30319.42000
+                                	DarkRift: 2.4.5.0 - Free
+[Trace]   PluginFactory         Created plugin 'BomberDronServer'.
+[Trace]   ExtendedPluginManagerBase Plugin 'BomberDronServer' has requested that DarkRift operates in thread safe mode.
+[Trace]   DarkRiftServer        Switched into thread safe mode. Expect lower performance!
+[Info]    ExtendedPluginManagerBase Loaded plugin BomberDronServer version 1.0.0
+[Trace]   PluginFactory         Created plugin 'BichannelListener'.
+[Trace]   DefaultNetworkListener Starting bichannel listener.
+[Info]    DefaultNetworkListener Server mounted, listening on port 4296.
+[Trace]   DefaultNetworkListener Accepted TCP connection from 127.0.0.1:59791.
+[Trace]   DefaultNetworkListener Accepted UDP connection from 127.0.0.1:65483.
+[Info]    ClientManager         New client [0] connected [127.0.0.1:59791|127.0.0.1:65483].
+[Trace]   DefaultNetworkListener Accepted TCP connection from 127.0.0.1:59815.
+[Trace]   DefaultNetworkListener Accepted UDP connection from 127.0.0.1:54426.
+[Info]    ClientManager         New client [1] connected [127.0.0.1:59815|127.0.0.1:54426].
+[Trace]   DefaultNetworkListener Accepted TCP connection from 127.0.0.1:59887.
+[Trace]   DefaultNetworkListener Accepted UDP connection from 127.0.0.1:64678.
+[Info]    ClientManager         New client [2] connected [127.0.0.1:59887|127.0.0.1:64678].
+[Trace]   DefaultNetworkListener Accepted TCP connection from 127.0.0.1:59916.
+[Trace]   DefaultNetworkListener Accepted UDP connection from 127.0.0.1:51560.
+[Info]    ClientManager         New client [3] connected [127.0.0.1:59916|127.0.0.1:51560].
+[Error]   Client                An plugin encountered an error whilst handling the MessageReceived event.
+                                 System.ArgumentOutOfRangeException: Индекс за пределами диапазона. Индекс должен быть положительным числом, а его размер не должен превышать размер коллекции.
+                                 Имя параметра: index
+                                    в System.ThrowHelper.ThrowArgumentOutOfRangeException(ExceptionArgument argument, ExceptionResource resource)
+                                    в System.Collections.Generic.List`1.get_Item(Int32 index)
+                                    в BomberDron.BomberDronServer.RoomConnect(MessageReceivedEventArgs e)
+                                    в BomberDron.BomberDronServer.InfoMessage(Object sender, MessageReceivedEventArgs e)
+                                    в DarkRift.Server.Client.<>c__DisplayClass43_0.<HandleIncomingMessage>b__0()
+[Info]    ClientManager         Client [3] disconnected.
+[Trace]   DefaultNetworkListener Accepted TCP connection from 127.0.0.1:59953.
+[Trace]   DefaultNetworkListener Accepted UDP connection from 127.0.0.1:50363.
+[Info]    ClientManager         New client [4] connected [127.0.0.1:59953|127.0.0.1:50363].
+[Info]    ClientManager         Client [1] disconnected.
+[Trace]   DefaultNetworkListener Accepted TCP connection from 127.0.0.1:59967.
+[Trace]   DefaultNetworkListener Accepted UDP connection from 127.0.0.1:58557.
+[Info]    ClientManager         New client [5] connected [127.0.0.1:59967|127.0.0.1:58557].
+[Info]    ClientManager         Client [0] disconnected.
+[Info]    ClientManager         Client [4] disconnected.
+[Info]    ClientManager         Client [2] disconnected.
+[Info]    ClientManager         Client [5] disconnected.

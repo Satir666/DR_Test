@@ -1,0 +1,27 @@
+[Trace]   DarkRiftServer        System Details:
+                                	OS: Microsoft Windows NT 6.2.9200.0
+                                	CLS Version: 4.0.30319.42000
+                                	DarkRift: 2.4.5.0 - Free
+[Trace]   PluginFactory         Created plugin 'BomberDronServer'.
+[Trace]   ExtendedPluginManagerBase Plugin 'BomberDronServer' has requested that DarkRift operates in thread safe mode.
+[Trace]   DarkRiftServer        Switched into thread safe mode. Expect lower performance!
+[Info]    ExtendedPluginManagerBase Loaded plugin BomberDronServer version 1.0.0
+[Trace]   PluginFactory         Created plugin 'BichannelListener'.
+[Trace]   DefaultNetworkListener Starting bichannel listener.
+[Info]    DefaultNetworkListener Server mounted, listening on port 4296.
+[Trace]   DefaultNetworkListener Accepted TCP connection from 127.0.0.1:57527.
+[Trace]   DefaultNetworkListener Accepted UDP connection from 127.0.0.1:54433.
+[Info]    ClientManager         New client [0] connected [127.0.0.1:57527|127.0.0.1:54433].
+[Trace]   DefaultNetworkListener Accepted TCP connection from 127.0.0.1:57536.
+[Trace]   DefaultNetworkListener Accepted UDP connection from 127.0.0.1:56251.
+[Info]    ClientManager         New client [1] connected [127.0.0.1:57536|127.0.0.1:56251].
+[Trace]   DefaultNetworkListener Accepted TCP connection from 127.0.0.1:57549.
+[Trace]   DefaultNetworkListener Accepted UDP connection from 127.0.0.1:52879.
+[Info]    ClientManager         New client [2] connected [127.0.0.1:57549|127.0.0.1:52879].
+[Trace]   DefaultNetworkListener Accepted TCP connection from 127.0.0.1:57556.
+[Trace]   DefaultNetworkListener Accepted UDP connection from 127.0.0.1:61571.
+[Info]    ClientManager         New client [3] connected [127.0.0.1:57556|127.0.0.1:61571].
+[Info]    ClientManager         Client [3] disconnected.
+[Info]    ClientManager         Client [2] disconnected.
+[Info]    ClientManager         Client [1] disconnected.
+[Info]    ClientManager         Client [0] disconnected.

@@ -1,0 +1,44 @@
+[Trace]   DarkRiftServer        System Details:
+                                	OS: Microsoft Windows NT 6.2.9200.0
+                                	CLS Version: 4.0.30319.42000
+                                	DarkRift: 2.4.5.0 - Free
+[Trace]   PluginFactory         Created plugin 'BomberDronServer'.
+[Trace]   ExtendedPluginManagerBase Plugin 'BomberDronServer' has requested that DarkRift operates in thread safe mode.
+[Trace]   DarkRiftServer        Switched into thread safe mode. Expect lower performance!
+[Info]    ExtendedPluginManagerBase Loaded plugin BomberDronServer version 1.0.0
+[Trace]   PluginFactory         Created plugin 'BichannelListener'.
+[Trace]   DefaultNetworkListener Starting bichannel listener.
+[Info]    DefaultNetworkListener Server mounted, listening on port 4296.
+[Trace]   DefaultNetworkListener Accepted TCP connection from 127.0.0.1:59748.
+[Trace]   DefaultNetworkListener Accepted UDP connection from 127.0.0.1:55330.
+[Info]    ClientManager         New client [0] connected [127.0.0.1:59748|127.0.0.1:55330].
+[Trace]   DefaultNetworkListener Accepted TCP connection from 127.0.0.1:59768.
+[Trace]   DefaultNetworkListener Accepted UDP connection from 127.0.0.1:60264.
+[Info]    ClientManager         New client [1] connected [127.0.0.1:59768|127.0.0.1:60264].
+[Trace]   DefaultNetworkListener Accepted TCP connection from 127.0.0.1:59775.
+[Trace]   DefaultNetworkListener Accepted UDP connection from 127.0.0.1:54437.
+[Info]    ClientManager         New client [2] connected [127.0.0.1:59775|127.0.0.1:54437].
+[Trace]   DefaultNetworkListener Accepted TCP connection from 127.0.0.1:59783.
+[Trace]   DefaultNetworkListener Accepted UDP connection from 127.0.0.1:53856.
+[Info]    ClientManager         New client [3] connected [127.0.0.1:59783|127.0.0.1:53856].
+[Info]    ClientManager         Client [3] disconnected.
+[Info]    ClientManager         Client [0] disconnected.
+[Info]    ClientManager         Client [2] disconnected.
+[Info]    ClientManager         Client [1] disconnected.
+[Trace]   DefaultNetworkListener Accepted TCP connection from 127.0.0.1:59834.
+[Trace]   DefaultNetworkListener Accepted UDP connection from 127.0.0.1:62074.
+[Info]    ClientManager         New client [4] connected [127.0.0.1:59834|127.0.0.1:62074].
+[Trace]   DefaultNetworkListener Accepted TCP connection from 127.0.0.1:59843.
+[Trace]   DefaultNetworkListener Accepted UDP connection from 127.0.0.1:59143.
+[Info]    ClientManager         New client [5] connected [127.0.0.1:59843|127.0.0.1:59143].
+[Trace]   DefaultNetworkListener Accepted TCP connection from 127.0.0.1:59849.
+[Trace]   DefaultNetworkListener Accepted UDP connection from 127.0.0.1:64519.
+[Info]    ClientManager         New client [6] connected [127.0.0.1:59849|127.0.0.1:64519].
+[Trace]   DefaultNetworkListener Accepted TCP connection from 127.0.0.1:59857.
+[Trace]   DefaultNetworkListener Accepted UDP connection from 127.0.0.1:50655.
+[Info]    ClientManager         New client [7] connected [127.0.0.1:59857|127.0.0.1:50655].
+[Info]    ClientManager         Client [4] disconnected: ConnectionAborted.
+                                 System.Net.Sockets.SocketException (0x80004005): Программа на вашем хост-компьютере разорвала установленное подключение
+[Info]    ClientManager         Client [6] disconnected.
+[Info]    ClientManager         Client [4] disconnected.
+[Info]    ClientManager         Client [5] disconnected.

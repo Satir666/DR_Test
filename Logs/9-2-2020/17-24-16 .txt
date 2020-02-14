@@ -1,0 +1,27 @@
+[Trace]   DarkRiftServer        System Details:
+                                	OS: Microsoft Windows NT 6.2.9200.0
+                                	CLS Version: 4.0.30319.42000
+                                	DarkRift: 2.4.5.0 - Free
+[Trace]   PluginFactory         Created plugin 'BomberDronServer'.
+[Trace]   ExtendedPluginManagerBase Plugin 'BomberDronServer' has requested that DarkRift operates in thread safe mode.
+[Trace]   DarkRiftServer        Switched into thread safe mode. Expect lower performance!
+[Info]    ExtendedPluginManagerBase Loaded plugin BomberDronServer version 1.0.0
+[Trace]   PluginFactory         Created plugin 'BichannelListener'.
+[Trace]   DefaultNetworkListener Starting bichannel listener.
+[Info]    DefaultNetworkListener Server mounted, listening on port 4296.
+[Trace]   DefaultNetworkListener Accepted TCP connection from 127.0.0.1:51063.
+[Trace]   DefaultNetworkListener Accepted UDP connection from 127.0.0.1:56165.
+[Info]    ClientManager         New client [0] connected [127.0.0.1:51063|127.0.0.1:56165].
+[Trace]   DefaultNetworkListener Accepted TCP connection from 127.0.0.1:51068.
+[Trace]   DefaultNetworkListener Accepted UDP connection from 127.0.0.1:59713.
+[Info]    ClientManager         New client [1] connected [127.0.0.1:51068|127.0.0.1:59713].
+[Trace]   DefaultNetworkListener Accepted TCP connection from 127.0.0.1:51073.
+[Trace]   DefaultNetworkListener Accepted UDP connection from 127.0.0.1:56745.
+[Info]    ClientManager         New client [2] connected [127.0.0.1:51073|127.0.0.1:56745].
+[Trace]   DefaultNetworkListener Accepted TCP connection from 127.0.0.1:51078.
+[Trace]   DefaultNetworkListener Accepted UDP connection from 127.0.0.1:52457.
+[Info]    ClientManager         New client [3] connected [127.0.0.1:51078|127.0.0.1:52457].
+[Info]    ClientManager         Client [2] disconnected.
+[Info]    ClientManager         Client [3] disconnected.
+[Info]    ClientManager         Client [0] disconnected.
+[Info]    ClientManager         Client [1] disconnected.
